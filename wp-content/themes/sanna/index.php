@@ -13,8 +13,8 @@
         <h3>Ti terremo informato</h3>
     </div>
 </div>
-<form>
- <div class="col-lg-12">
+<form class="form-contats">
+ <div class="col-md-6">
      <div class="form-group">
     <label for="exampleInputEmail1">Indirizzo email </label>
     <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Per favore, scrivi qui la tua email" required>
@@ -27,12 +27,11 @@
 
 <div class="col-md-6">
     <label for="exampleInputPassword1">Lascia un messaggio</label>
-    <textarea class="form-control" rows="3" required></textarea>
-    <div class="row">
+    <textarea class="form-control" placeholder="Lascia un messaggio" row="3"></textarea>
+  </div>   
     <div class="col-lg-12 text-center">
-    <button type="submit" class="btn btn-primary btn">Invia</button>
-    </div> 
-    </div>
+    <button type="submit" class="btn btn-default">Invia</button>
+    </div>  
 </div>
 </form>
 </div>
