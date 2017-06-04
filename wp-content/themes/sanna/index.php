@@ -8,8 +8,8 @@
     </div>
   </div>
   <div class="row text-center" id="contact">
-    <h1>Contact us</h1>
-    <h2>Lorem ipsum dolor sit amet</h2>
+    <h1>Contattaci</h1>
+    <h2>Ti terremo informato</h2>
   </div>
   <div class="row form-row">
     <form>
@@ -29,12 +29,12 @@
 
       </div>
       <div class="col-md-6">
-        <label for="exampleInputPassword1">Insert a comment</label>
+        <label for="exampleInputPassword1">Inserisci un commento</label>
         <textarea class="form-control input-lg"></textarea>
       </div>
       <div class="col-md-12">
         <div class="text-center btn-container">
-          <button type="button" class="btn btn-primary btn-lg">Submit</button>
+          <button type="submit" class="btn btn-default btn-lg">Invia</button>
         </div>
       </div>
     </form>
